@@ -46,6 +46,6 @@
     error_page 511 /error_pages/511.html;
     location ^~ /error_pages {
         internal;
-        root   /data/nginx/html/error_pages/;
+        root   /data/nginx/html/;
     }
 ```
