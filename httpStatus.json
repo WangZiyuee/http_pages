@@ -1,6 +1,90 @@
 {
     "httpStatus": [
         {
+            "value": 100,
+            "reasonPhrase": "Continue"
+        },
+        {
+            "value": 101,
+            "reasonPhrase": "Switching Protocols"
+        },
+        {
+            "value": 102,
+            "reasonPhrase": "Processing"
+        },
+        {
+            "value": 103,
+            "reasonPhrase": "Checkpoint"
+        },
+        {
+            "value": 200,
+            "reasonPhrase": "OK"
+        },
+        {
+            "value": 201,
+            "reasonPhrase": "Created"
+        },
+        {
+            "value": 202,
+            "reasonPhrase": "Accepted"
+        },
+        {
+            "value": 203,
+            "reasonPhrase": "Non-Authoritative Information"
+        },
+        {
+            "value": 204,
+            "reasonPhrase": "No Content"
+        },
+        {
+            "value": 205,
+            "reasonPhrase": "Reset Content"
+        },
+        {
+            "value": 206,
+            "reasonPhrase": "Partial Content"
+        },
+        {
+            "value": 207,
+            "reasonPhrase": "Multi-Status"
+        },
+        {
+            "value": 208,
+            "reasonPhrase": "Already Reported"
+        },
+        {
+            "value": 226,
+            "reasonPhrase": "IM Used"
+        },
+        {
+            "value": 300,
+            "reasonPhrase": "Multiple Choices"
+        },
+        {
+            "value": 301,
+            "reasonPhrase": "Moved Permanently"
+        },
+        {
+            "value": 302,
+            "reasonPhrase": "Found"
+        },
+        {
+            "value": 303,
+            "reasonPhrase": "See Other"
+        },
+        {
+            "value": 304,
+            "reasonPhrase": "Not Modified"
+        },
+        {
+            "value": 307,
+            "reasonPhrase": "Temporary Redirect"
+        },
+        {
+            "value": 308,
+            "reasonPhrase": "Permanent Redirect"
+        },
+        {
             "value": 400,
             "reasonPhrase": "Bad Request"
         },
