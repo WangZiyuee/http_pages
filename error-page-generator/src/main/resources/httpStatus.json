@@ -1,0 +1,164 @@
+{
+    "httpStatus": [
+        {
+            "value": 400,
+            "reasonPhrase": "Bad Request"
+        },
+        {
+            "value": 401,
+            "reasonPhrase": "Unauthorized"
+        },
+        {
+            "value": 402,
+            "reasonPhrase": "Payment Required"
+        },
+        {
+            "value": 403,
+            "reasonPhrase": "Forbidden"
+        },
+        {
+            "value": 404,
+            "reasonPhrase": "Not Found"
+        },
+        {
+            "value": 405,
+            "reasonPhrase": "Method Not Allowed"
+        },
+        {
+            "value": 406,
+            "reasonPhrase": "Not Acceptable"
+        },
+        {
+            "value": 407,
+            "reasonPhrase": "Proxy Authentication Required"
+        },
+        {
+            "value": 408,
+            "reasonPhrase": "Request Timeout"
+        },
+        {
+            "value": 409,
+            "reasonPhrase": "Conflict"
+        },
+        {
+            "value": 410,
+            "reasonPhrase": "Gone"
+        },
+        {
+            "value": 411,
+            "reasonPhrase": "Length Required"
+        },
+        {
+            "value": 412,
+            "reasonPhrase": "Precondition Failed"
+        },
+        {
+            "value": 413,
+            "reasonPhrase": "Payload Too Large"
+        },
+        {
+            "value": 414,
+            "reasonPhrase": "URI Too Long"
+        },
+        {
+            "value": 415,
+            "reasonPhrase": "Unsupported Media Type"
+        },
+        {
+            "value": 416,
+            "reasonPhrase": "Requested range not satisfiable"
+        },
+        {
+            "value": 417,
+            "reasonPhrase": "Expectation Failed"
+        },
+        {
+            "value": 418,
+            "reasonPhrase": "I'm a teapot"
+        },
+        {
+            "value": 422,
+            "reasonPhrase": "Unprocessable Entity"
+        },
+        {
+            "value": 423,
+            "reasonPhrase": "Locked"
+        },
+        {
+            "value": 424,
+            "reasonPhrase": "Failed Dependency"
+        },
+        {
+            "value": 425,
+            "reasonPhrase": "Too Early"
+        },
+        {
+            "value": 426,
+            "reasonPhrase": "Upgrade Required"
+        },
+        {
+            "value": 428,
+            "reasonPhrase": "Precondition Required"
+        },
+        {
+            "value": 429,
+            "reasonPhrase": "Too Many Requests"
+        },
+        {
+            "value": 431,
+            "reasonPhrase": "Request Header Fields Too Large"
+        },
+        {
+            "value": 451,
+            "reasonPhrase": "Unavailable For Legal Reasons"
+        },
+        {
+            "value": 500,
+            "reasonPhrase": "Internal Server Error"
+        },
+        {
+            "value": 501,
+            "reasonPhrase": "Not Implemented"
+        },
+        {
+            "value": 502,
+            "reasonPhrase": "Bad Gateway"
+        },
+        {
+            "value": 503,
+            "reasonPhrase": "Service Unavailable"
+        },
+        {
+            "value": 504,
+            "reasonPhrase": "Gateway Timeout"
+        },
+        {
+            "value": 505,
+            "reasonPhrase": "HTTP Version not supported"
+        },
+        {
+            "value": 506,
+            "reasonPhrase": "Variant Also Negotiates"
+        },
+        {
+            "value": 507,
+            "reasonPhrase": "Insufficient Storage"
+        },
+        {
+            "value": 508,
+            "reasonPhrase": "Loop Detected"
+        },
+        {
+            "value": 509,
+            "reasonPhrase": "Bandwidth Limit Exceeded"
+        },
+        {
+            "value": 510,
+            "reasonPhrase": "Not Extended"
+        },
+        {
+            "value": 511,
+            "reasonPhrase": "Network Authentication Required"
+        }
+    ]
+}
